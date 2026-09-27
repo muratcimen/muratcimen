@@ -21,7 +21,7 @@
 - 🌱 Exploring AI agents, RAG, MCP, React and Kubernetes
 - 💬 Talk to me about Java, Spring Boot, Kafka, Redis, RabbitMQ and software architecture
 - 📫 Reach me at [www.muratcimen.com](https://www.muratcimen.com/)
-- 📄 Checkout my [Resume](https://www.muratcimen.com/_files/ugd/bfa4c2_60c6848098b84405b8141b688d072fe7.pdf)
+- 📄 Checkout my [Resume](https://www.muratcimen.com/_files/ugd/bfa4c2_fc09fb25ec6249f6a3fb6e605001a7be.pdf)
 
 
 <table>
