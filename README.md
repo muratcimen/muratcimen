@@ -16,10 +16,10 @@
 
 ## 🧐 More About Me:
 
-👨‍💻 Java Software Engineer focused on Spring Boot, microservices and distributed systems
-🏗️ Building AI-assisted software development platform
-🌱 Exploring AI agents, RAG, MCP, React and Kubernetes
-💬 Talk to me about Java, Spring Boot, Kafka, Redis, RabbitMQ and software architecture
+- 👨‍💻 Java Software Engineer focused on Spring Boot, microservices and distributed systems
+- 🏗️ Building AI-assisted software development platform
+- 🌱 Exploring AI agents, RAG, MCP, React and Kubernetes
+- 💬 Talk to me about Java, Spring Boot, Kafka, Redis, RabbitMQ and software architecture
 - 📫 Reach me at [www.muratcimen.com](https://www.muratcimen.com/)
 - 📄 Checkout my [Resume](https://www.muratcimen.com/_files/ugd/bfa4c2_60c6848098b84405b8141b688d072fe7.pdf)
 
