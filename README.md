@@ -56,7 +56,8 @@
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/firebase.svg" alt="Firebase" height="40" /></td>
   
   <td align="center"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="Git" height="40" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" alt="Git" height="40" /></td>
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" alt="Git" height="40" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="Git" height="40" /></td>
    
   <td align="center">  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Git" height="40" /></td>
   
