@@ -49,15 +49,16 @@
   <td align="center"><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/oracle.svg" alt="Oracle" height="40" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL" height="40" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" alt="MongoDB" height="40" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" height="40" /></td>
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" height="40" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" height="40" /></td>
   
   <td align="center">  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/bitbucketV2.svg" alt="Bitbucket" height="40" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" alt="Docker" height="40" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/firebase.svg" alt="Firebase" height="40" /></td>
   
-  <td align="center"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="Git" height="40" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" alt="Git" height="40" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="Git" height="40" /></td>
+  <td align="center"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="Intellij" height="40" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" alt="Exlipse" height="40" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="Vscode" height="40" /></td>
    
   <td align="center">  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Git" height="40" /></td>
   
